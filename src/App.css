@@ -1,0 +1,35 @@
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+header{
+  background-color: #4caf50;
+  color: wheat;
+  text-align: center;
+  padding-inline: 1rem;
+}
+
+section{
+  margin: 2rem auto;
+  padding: 1rem;
+  max-width: 800px;
+  background-color: wheat;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+li{
+  background-color: #e0f7fa;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
